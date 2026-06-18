@@ -13,9 +13,10 @@ with its own version tag.
 
 ## Modules
 
-| Module                         | Description                                                              |
-|--------------------------------|--------------------------------------------------------------------------|
-| [`domains`](./modules/domains) | OVH DNS zone with managed DNS records and optional custom name servers. |
+| Module                                             | Description                                                              |
+|----------------------------------------------------|--------------------------------------------------------------------------|
+| [`domains`](./modules/domains)                     | OVH DNS zone with managed DNS records and optional custom name servers.  |
+| [`dedicated-server`](./modules/dedicated-server)   | Install and manage an already-delivered OVH dedicated (bare metal) server. |
 
 ## Usage
 

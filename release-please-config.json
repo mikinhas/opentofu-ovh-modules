@@ -8,6 +8,11 @@
       "release-type": "terraform-module",
       "component": "domains",
       "package-name": "domains"
+    },
+    "modules/dedicated-server": {
+      "release-type": "terraform-module",
+      "component": "dedicated-server",
+      "package-name": "dedicated-server"
     }
   }
 }
