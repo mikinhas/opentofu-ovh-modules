@@ -1,3 +1,4 @@
 {
-  "modules/domains": "0.1.0"
+  "modules/domains": "0.1.0",
+  "modules/dedicated-server": "0.1.0"
 }
